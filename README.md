@@ -10,7 +10,7 @@ Section: A
 
 1. Abhay K Iyengar (SRN: PES1UG20CS004)
 2. Abhishek Singhi (SRN: PES1UG20CS011)
-3. Allama Prabhu (SRN: PES1UG20CS031)
+3. Allamaprabhu (SRN: PES1UG20CS031)
 4. Aniket Acharya (SRN: PES1UG20CS052)
 
 ## Problem Statement
